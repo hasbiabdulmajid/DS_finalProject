@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1490557121 source:g:\tugas\struktur data\tp\tubes\bank.cpp
+	<iostream>
+	"bank.h"
+
+1490552951 g:\tugas\struktur data\tp\tubes\bank.h
+
+1490561743 source:g:\tugas\struktur data\tp\tubes\main.cpp
+	<iostream>
+	"pelanggan.h"
+	"bank.h"
+	"relasi.h"
+	<cstdlib>
+
+1490552469 g:\tugas\struktur data\tp\tubes\pelanggan.h
+	<iostream>
+
+1490561719 g:\tugas\struktur data\tp\tubes\relasi.h
+	<iostream>
+	"pelanggan.h"
+	"bank.h"
+
+1490553099 source:g:\tugas\struktur data\tp\tubes\pelanggan.cpp
+	<iostream>
+	"pelanggan.h"
+
+1490557815 source:g:\tugas\struktur data\tp\tubes\relasi.cpp
+	"relasi.h"
+
